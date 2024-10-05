@@ -1,47 +1,52 @@
-## Website Jadwal Angkutan Umum Garut
+# Website Jadwal Transportasi Bus Garut
 
-Website yang menyediakan informasi jadwal angkutan umum di Garut. Website ini dirancang untuk mudah digunakan dan diakses oleh semua orang.
+## Konsep Web
 
-**Fitur:**
+Website ini merupakan website jadwal transportasi bus Garut.
 
-**Untuk Pengguna:**
+## Fitur
 
-* **Login:** Pengguna dapat membuat akun dan login untuk mengakses fitur website.
-* **Halaman Jadwal:** Pengguna dapat melihat jadwal untuk berbagai rute angkutan umum di Garut.
-* **Logout:** Pengguna dapat logout dari akun mereka.
+### Untuk User:
 
-**Untuk Admin:**
+1. **Login:** Memungkinkan pengguna untuk masuk ke akun mereka dan mengakses fitur-fitur yang tersedia.
+2. **Halaman Jadwal Transportasi Bus:** Menampilkan jadwal keberangkatan bus di Garut.
+3. **Halaman Data Bus:** Menampilkan informasi detail tentang bus yang beroperasi di Garut (jenis, kapasitas, rute, dll.). 
+4. **Halaman Informasi:** Halaman informasi pada website jadwal transportasi bus Garut akan berisi informasi umum tentang Dinas Perhubungan (Dishub) Garut, termasuk visi dan misi Dishub dalam memajukan transportasi di Garut.
+5. **Logout:** Memungkinkan pengguna untuk keluar dari akun mereka.
 
-* **Login:** Admin dapat login untuk mengakses panel administrasi.
-* **Manajemen Jadwal:** Admin dapat melihat, mengedit, dan mengelola jadwal untuk semua rute angkutan umum.
-* **Tambahkan Rute Baru:** Admin dapat menambahkan rute angkutan umum baru ke website.
-* **Edit Data Rute:** Admin dapat mengedit data untuk rute yang sudah ada, termasuk jadwal, nama, dan informasi relevan lainnya.
-* **Hapus Data Rute:** Admin dapat menghapus rute yang sudah tidak beroperasi lagi.
-* **Logout:** Admin dapat logout dari akun mereka.
+### Untuk Admin:
 
-**Akun Default untuk Pengujian:**
+1. **Login:** Memungkinkan administrator untuk masuk ke akun mereka dan mengakses fitur-fitur yang tersedia.
+2. **Halaman Jadwal Transportasi Bus:** Menampilkan jadwal keberangkatan dan kedatangan bus di Garut. Administrator dapat:
+    - **Menambahkan Jadwal Bus Baru:** Memungkinkan admin untuk menambahkan jadwal bus baru.
+3. **Halaman Data Bus:** Menampilkan informasi detail tentang bus yang beroperasi di Garut (jenis, kapasitas, rute, dll.). Administrator dapat:
+    - **Menambahkan Data Bus Baru:** Memungkinkan admin untuk menambahkan data bus baru.
+4. **Logout:** Memungkinkan administrator untuk keluar dari akun mereka.
 
-* **Admin:**
-    * Username: admin
-    * Password: admin123
-* **User:**
-    * Username: user
-    * Password: user123
+## Akun Default untuk Pengujian
 
-**ERD:**
+1. **Administrator:**
+    - **Username:** admin
+    - **Password:** admin123
 
-![alt text](https://github.com/santirsmwti/ujikom2/blob/main/image/erdsanti.jpg?raw=true)
+2. **Pengguna:**
+    - **Username:** user
+    - **Password:** user123
 
-**UML:**
+## ERD
 
-![alt text](github.com/santirsmwti/ujikom2/blob/main/image/uml.jpg?raw=true)
+![diagram erd](image/erd.jpg)
 
-**Persyaratan Instalasi:**
+## UML
 
-* Server web: Apache
-* Database: MySQL
-* Browser web: Chrome
+- [Belum ditambahkan]
 
-**Akses Website:**
+## Persyaratan Instalasi
 
-* localhost/santi/login.php
+1. Web Server (Apache)
+2. Database (MySQL)
+3. Web Browser (Chrome)
+
+## Situs Web
+
+Akses melalui: [localhost/dishub/](http://localhost/dishub/)
