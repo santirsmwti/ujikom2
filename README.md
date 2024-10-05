@@ -22,11 +22,11 @@ Website yang menyediakan informasi jadwal angkutan umum di Garut. Website ini di
 **Akun Default untuk Pengujian:**
 
 * **Admin:**
-    * Username: `admin`
-    * Password: `admin123`
+    * Username: admin
+    * Password: admin123
 * **User:**
-    * Username: `user`
-    * Password: `user123`
+    * Username: user
+    * Password: user123
 
 **ERD:**
 
@@ -44,4 +44,4 @@ Website yang menyediakan informasi jadwal angkutan umum di Garut. Website ini di
 
 **Akses Website:**
 
-* `localhost/santi/login.php`
+* localhost/santi/login.php
