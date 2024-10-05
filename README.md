@@ -30,11 +30,11 @@ Website yang menyediakan informasi jadwal angkutan umum di Garut. Website ini di
 
 **ERD:**
 
-![ERD Diagram](github.com/santirsmwti/ujikom2/blob/main/image/erdsanti.jpg?raw=true)
+![alt text](github.com/santirsmwti/ujikom2/blob/main/image/erdsanti.jpg?raw=true)
 
 **UML:**
 
-![UML Diagram](github.com/santirsmwti/ujikom2/blob/main/image/uml.jpg?raw=true)
+![alt text](github.com/santirsmwti/ujikom2/blob/main/image/uml.jpg?raw=true)
 
 **Persyaratan Instalasi:**
 
